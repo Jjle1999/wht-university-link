@@ -6,7 +6,7 @@ var univ_list = {
         url: "http://www.hrbeu.edu.cn/"
     }, {
         name: "信息系统",
-        url: "http://portal.hrbeu.edu.cn/"
+        url: "http://ehome.hrbeu.edu.cn/"
     }, {
         name: "校园卡",
         url: "http://ecard.hrbeu.edu.cn"
